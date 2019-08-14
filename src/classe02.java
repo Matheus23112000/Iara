@@ -22,6 +22,8 @@ public class classe02 {
      */
     public static void main(String[] args) {
         System.out.println("Bairro");
+        System.out.println("Bairro segundo");
+
     }
 
     /**

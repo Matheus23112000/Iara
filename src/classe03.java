@@ -22,6 +22,7 @@ public class classe03 {
      */
     public static void main(String[] args) {
         System.out.println("Número");
+        System.out.println("Número segundo");
     }
 
     /**

@@ -22,6 +22,8 @@ public class classe04 {
      */
     public static void main(String[] args) {
         System.out.println("Nome");
+        System.out.println("Nome segundo");
+
     }
 
     /**

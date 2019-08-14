@@ -24,8 +24,9 @@ public class classe01 {
      */
     public static void main(String[] args) {
         System.out.println("end");
+        System.out.println("end segundo");
     }
-
+      
     /**
      * Método para retorno endereço
      *

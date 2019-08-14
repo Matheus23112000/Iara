@@ -19,6 +19,7 @@ public class classe05 {
      */
     public static void main(String[] args) {
         System.out.println("IARA É FEIA"); 
+        System.out.println("IARA É FEIA SIMMMMM"); 
     }
     
       /** Método para retorno nome de Iara
